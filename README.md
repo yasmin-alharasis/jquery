@@ -1,55 +1,41 @@
-###### jQuery exercises
-
+jQuery exercises
 Exercises with solutions for those who want to practice jQuery
 
-#### Exercise 1
-
+Exercise 1
 Check if jQuery is loaded
 
-#### Exercise 2
-
+Exercise 2
 If You would have very long website - How to help user with fast getting back on top :)
 
-#### Exercise 3
-
+Exercise 3
 If You would like to change sizes of Your div/button with oneclick :)
 
-#### Exercise 4
-
+Exercise 4
 Learn how to fadein your boxes
 
-#### Exercise 5
-
+Exercise 5
 User must first accept then he or she can signup
 
-#### Exercise 6
-
+Exercise 6
 Dont be an ass - let them print
 
-#### Exercise 7
-
+Exercise 7
 Can username be too long? Yest it can - lets limit that
 
-#### Exercise 8
-
+Exercise 8
 Wanna make some words bolder, do it with jQuery
 
-#### Exercise 9
-
+Exercise 9
 Add new div to your website
 
-#### Exercise 10
-
+Exercise 10
 Select values from a JSON object using jQuery
 
-#### Exercise 11
-
+Exercise 11
 Add element within ul list
 
-#### Exercise 12
-
+Exercise 12
 Know what user puts into textbox
 
-#### Exercise 13
-
+Exercise 13
 Change input value
